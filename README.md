@@ -41,7 +41,7 @@ Push to `main` runs `.github/workflows/deploy.yml`, builds and checks the site, 
 
 CAJ support is a subset. Do not claim universal compatibility, encryption bypass, paper downloads or database access. AI uses the user's configured service and API key; Foleno does not include hosted models or quotas. iCloud sync supports iPhone, iPad and Mac, subject to Apple Account, connectivity, storage and scheduling.
 
-The public beta is currently offered through the existing TestFlight invitation. The Mac public version is still being refined. The site deliberately has no App Store download badge until the listing is live; do not invent ratings, customers, price offers or download numbers. Do not promise a permanent pricing or monetization model.
+The public beta is currently offered through the existing TestFlight invitation. The public beta is available on iPhone, iPad and Mac. The site deliberately has no App Store download badge until the listing is live; do not invent ratings, customers, price offers or download numbers. Do not promise a permanent pricing or monetization model.
 
 Update both languages when functionality or data processing changes. Screenshots currently show Chinese UI on both languages, with an explicit caption. See `ASSET-RIGHTS.md`.
 
